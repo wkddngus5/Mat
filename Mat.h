@@ -11,7 +11,7 @@ typedef struct mat{
 
 	char name[30];
 	char location[50];
-	char representMenu[20];
+	char representMenu[30];
 	int price;
 }Mat;
 
